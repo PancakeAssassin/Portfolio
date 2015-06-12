@@ -1,0 +1,8 @@
+<CD>
+<TITLE>Private Dancer</TITLE>
+<ARTIST>Tina Turner</ARTIST>
+<COUNTRY>UK</COUNTRY>
+<COMPANY>Capitol</COMPANY>
+<PRICE>8.90</PRICE>
+<YEAR>1983</YEAR>
+</CD>

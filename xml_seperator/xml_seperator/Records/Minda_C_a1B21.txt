@@ -1,0 +1,8 @@
+<CD>
+<TITLE>Midt om natten</TITLE>
+<ARTIST>Kim Larsen</ARTIST>
+<COUNTRY>EU</COUNTRY>
+<COMPANY>Medley</COMPANY>
+<PRICE>7.80</PRICE>
+<YEAR>1983</YEAR>
+</CD>

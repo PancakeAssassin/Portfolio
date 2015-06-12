@@ -1,0 +1,8 @@
+<CD>
+<TITLE>Tupelo Honey</TITLE>
+<ARTIST>Van Morrison</ARTIST>
+<COUNTRY>UK</COUNTRY>
+<COMPANY>Polydor</COMPANY>
+<PRICE>8.20</PRICE>
+<YEAR>1971</YEAR>
+</CD>

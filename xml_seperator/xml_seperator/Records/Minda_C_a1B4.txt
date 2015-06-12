@@ -1,0 +1,8 @@
+<CD>
+<TITLE>Still got the blues</TITLE>
+<ARTIST>Gary Moore</ARTIST>
+<COUNTRY>UK</COUNTRY>
+<COMPANY>Virgin records</COMPANY>
+<PRICE>10.20</PRICE>
+<YEAR>1990</YEAR>
+</CD>

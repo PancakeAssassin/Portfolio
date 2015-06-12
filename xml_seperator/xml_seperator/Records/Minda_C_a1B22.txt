@@ -1,0 +1,8 @@
+<CD>
+<TITLE>Pavarotti Gala Concert</TITLE>
+<ARTIST>Luciano Pavarotti</ARTIST>
+<COUNTRY>UK</COUNTRY>
+<COMPANY>DECCA</COMPANY>
+<PRICE>9.90</PRICE>
+<YEAR>1991</YEAR>
+</CD>

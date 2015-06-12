@@ -1,0 +1,8 @@
+<CD>
+<TITLE>For the good times</TITLE>
+<ARTIST>Kenny Rogers</ARTIST>
+<COUNTRY>UK</COUNTRY>
+<COMPANY>Mucik Master</COMPANY>
+<PRICE>8.70</PRICE>
+<YEAR>1995</YEAR>
+</CD>

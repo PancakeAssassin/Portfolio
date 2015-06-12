@@ -1,0 +1,8 @@
+<CD>
+<TITLE>Picture book</TITLE>
+<ARTIST>Simply Red</ARTIST>
+<COUNTRY>EU</COUNTRY>
+<COMPANY>Elektra</COMPANY>
+<PRICE>7.20</PRICE>
+<YEAR>1985</YEAR>
+</CD>

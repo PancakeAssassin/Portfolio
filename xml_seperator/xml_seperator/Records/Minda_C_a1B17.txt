@@ -1,0 +1,8 @@
+<CD>
+<TITLE>The very best of</TITLE>
+<ARTIST>Cat Stevens</ARTIST>
+<COUNTRY>UK</COUNTRY>
+<COMPANY>Island</COMPANY>
+<PRICE>8.90</PRICE>
+<YEAR>1990</YEAR>
+</CD>

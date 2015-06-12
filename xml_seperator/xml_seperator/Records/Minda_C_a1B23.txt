@@ -1,0 +1,8 @@
+<CD>
+<TITLE>The dock of the bay</TITLE>
+<ARTIST>Otis Redding</ARTIST>
+<COUNTRY>USA</COUNTRY>
+<COMPANY>Atlantic</COMPANY>
+<PRICE>7.90</PRICE>
+<YEAR>1987</YEAR>
+</CD>

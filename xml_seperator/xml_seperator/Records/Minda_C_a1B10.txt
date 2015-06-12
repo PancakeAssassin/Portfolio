@@ -1,0 +1,8 @@
+<CD>
+<TITLE>When a man loves a woman</TITLE>
+<ARTIST>Percy Sledge</ARTIST>
+<COUNTRY>USA</COUNTRY>
+<COMPANY>Atlantic</COMPANY>
+<PRICE>8.70</PRICE>
+<YEAR>1987</YEAR>
+</CD>

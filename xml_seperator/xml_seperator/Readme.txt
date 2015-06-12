@@ -1,0 +1,1 @@
+Takes the elements of CSIT430_a1_SP2012.txt and writes each individual item to it's own file in the Records folder.

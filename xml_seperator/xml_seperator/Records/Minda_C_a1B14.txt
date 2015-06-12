@@ -1,0 +1,8 @@
+<CD>
+<TITLE>Big Willie style</TITLE>
+<ARTIST>Will Smith</ARTIST>
+<COUNTRY>USA</COUNTRY>
+<COMPANY>Columbia</COMPANY>
+<PRICE>9.90</PRICE>
+<YEAR>1997</YEAR>
+</CD>
