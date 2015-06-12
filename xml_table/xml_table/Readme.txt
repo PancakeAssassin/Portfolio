@@ -1,0 +1,1 @@
+This program takes the file CSIT430_a1_SP102.txt, parses it, and outputs to Minda_C_a1A.txt an organized table of the elements in the origianl Text Document.
