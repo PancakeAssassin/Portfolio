@@ -1,0 +1,44 @@
+﻿Log file open, 10/29/14 22:31:55
+LogInit:Display: Running engine for game: MyProject
+LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
+LogInit: API Version: 2326478
+LogInit: Compiled (64-bit): Oct 21 2014 22:32:40
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: DebugGame
+LogInit: Branch Name: ++depot+UE4-Releases+4.5
+LogInit: Command line:  -debug
+LogInit: Base directory: C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2014.10.30-02.31.55:664][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.10.30-02.31.55:711][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.10.30-02.31.57:749][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.10.30-02.31.57:780][  0]LogInit: Object subsystem initialized
+[2014.10.30-02.31.58:056][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.10.30-02.31.58:057][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Chris/Desktop/MyProject/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.10.30-02.31.58:057][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480,Value=0.444),(Time=720,Value=0.666),(Time=1080,Value=1.0),(Time=8640,Value=8.0))),ExternalCurve=None)'
+[2014.10.30-02.31.58:057][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Chris/Desktop/MyProject/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.10.30-02.31.58:263][  0]LogInit: Selected Device Profile: [Windows]
+[2014.10.30-02.31.58:264][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.10.30-02.31.58:513][  0]LogInit: Computer: CHRIS-PC
+[2014.10.30-02.31.58:514][  0]LogInit: User: Chris
+[2014.10.30-02.31.58:515][  0]LogInit: CPU Page size=4096, Cores=4
+[2014.10.30-02.31.58:516][  0]LogInit: High frequency timer resolution =3.312871 MHz
+[2014.10.30-02.31.58:516][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx) Virtual=8192.0GB
+[2014.10.30-02.31.58:517][  0]LogMemory: Platform Memory Stats for Windows
+[2014.10.30-02.31.58:517][  0]LogMemory: Process Physical Memory: 63.30 MB used, 63.30 MB peak
+[2014.10.30-02.31.58:517][  0]LogMemory: Process Virtual Memory: 38.36 MB used, 38.36 MB peak
+[2014.10.30-02.31.58:518][  0]LogMemory: Physical Memory: 6892.80 MB used, 12270.45 MB total
+[2014.10.30-02.31.58:518][  0]LogMemory: Virtual Memory: 269.63 MB used, 8388608.00 MB total
+[2014.10.30-02.31.59:710][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 760 (Feature Level 11_0)
+[2014.10.30-02.31.59:711][  0]LogD3D11RHI: Adapter has 1990MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 2 output[s]
+[2014.10.30-02.31.59:711][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.10.30-02.31.59:716][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2014.10.30-02.31.59:737][  0]LogD3D11RHI: Async texture creation enabled
+[2014.10.30-02.32.08:548][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2014.10.30-02.32.09:124][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.10.30-02.32.27:335][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.10.30-02.32.30:827][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.10.30-02.32.31:247][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.10.30-02.32.33:412][  0]LogDerivedDataCache: Loaded boot cache 2.09s 39MB C:/Users/Chris/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.10.30-02.32.33:413][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Chris/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.10.30-02.32.33:413][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cac
